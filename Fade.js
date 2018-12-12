@@ -50,4 +50,4 @@ class Fade extends Component<Props> {
   }
 }
 
-export default Fade;
+export { Fade };

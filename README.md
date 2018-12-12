@@ -9,7 +9,7 @@
 ## Usage
 
 ```javascript
-import Fade from "react-native-component-fade";
+import { Fade } from "react-native-component-fade";
 
 const myFadeInComponent = () => (
   <FadeInView

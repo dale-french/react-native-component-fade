@@ -1,6 +1,6 @@
 {
   "name": "react-native-component-fade",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple and lightweight React Native component that fades in it's child components",
   "main": "Fade.js",
   "scripts": {
